@@ -15,9 +15,9 @@ public class Program
             new Movie("Inception", 2010, 8.8),
         };
 
-        // Add the movies to the MovieManager
         MovieManager.AddMovies(movies);
-        MovieManager.printMovies();
+        var searchedMovie = MovieManager.findMovieByTitle("The Shawshank Redemption");
+        MovieManager.printMovie(searchedMovie);
     }
 
 }

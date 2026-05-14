@@ -19,4 +19,22 @@ public class MovieManager
             Console.WriteLine("--------------------------------");
         }
     }
+
+    // Print a single movie
+    public void printMovie(Movie movie){
+        Console.WriteLine("--------------------------------");
+        Console.WriteLine($"Title: {movie.Title}\nYear: {movie.Year}\nRating: {movie.Rating}");
+        Console.WriteLine("--------------------------------");
+    }
+
+    // Find a movie by title
+    public Movie? findMovieByTitle(string title){
+        foreach (var movie in Movies){
+            if (movie.Title == title){
+                return movie;
+            }
+        }
+        Console.WriteLine("Movie not found");
+        return null;
+    }
 }
