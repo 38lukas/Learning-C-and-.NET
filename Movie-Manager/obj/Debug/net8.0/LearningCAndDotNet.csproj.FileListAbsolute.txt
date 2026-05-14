@@ -1,0 +1,15 @@
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\bin\Debug\net8.0\LearningCAndDotNet.exe
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\bin\Debug\net8.0\LearningCAndDotNet.deps.json
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\bin\Debug\net8.0\LearningCAndDotNet.runtimeconfig.json
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\bin\Debug\net8.0\LearningCAndDotNet.dll
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\bin\Debug\net8.0\LearningCAndDotNet.pdb
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\obj\Debug\net8.0\LearningCAndDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\obj\Debug\net8.0\LearningCAndDotNet.AssemblyInfoInputs.cache
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\obj\Debug\net8.0\LearningCAndDotNet.AssemblyInfo.cs
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\obj\Debug\net8.0\LearningCAndDotNet.csproj.CoreCompileInputs.cache
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\obj\Debug\net8.0\LearningCAndDotNet.sourcelink.json
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\obj\Debug\net8.0\LearningCAndDotNet.dll
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\obj\Debug\net8.0\refint\LearningCAndDotNet.dll
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\obj\Debug\net8.0\LearningCAndDotNet.pdb
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\obj\Debug\net8.0\LearningCAndDotNet.genruntimeconfig.cache
+C:\Uni\GitHub Repos\Learning-C-and-.NET\Movie-Manager\obj\Debug\net8.0\ref\LearningCAndDotNet.dll
